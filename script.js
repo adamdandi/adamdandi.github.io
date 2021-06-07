@@ -41,7 +41,7 @@ submitBtn.addEventListener("click", function(){
   progressText[current - 1].classList.add("active");
   current += 1;
   setTimeout(function(){
-    alert("Your Form Successfully Signed up");
+    alert("Semoga kita dipertemukan lagii ^.^");
     location.reload();
   },800);
 });
